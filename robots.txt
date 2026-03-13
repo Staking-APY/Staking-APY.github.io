@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /staking-apy/
+Sitemap: Staking-APY.github.io/sitemap.xml
